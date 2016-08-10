@@ -68,3 +68,6 @@
 [submodule "bundle/auto-pairs"]
 	path = bundle/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/vim-quickrun"]
+	path = bundle/vim-quickrun
+	url = https://github.com/thinca/vim-quickrun.git
